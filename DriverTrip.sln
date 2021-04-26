@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverTrip", "DriverTrip\DriverTrip.csproj", "{C20F4F18-8453-4544-A007-781CB7ACD38E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AE451186-8E38-4403-A54C-8391EC91202A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20F4F18-8453-4544-A007-781CB7ACD38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20F4F18-8453-4544-A007-781CB7ACD38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20F4F18-8453-4544-A007-781CB7ACD38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20F4F18-8453-4544-A007-781CB7ACD38E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E410E301-EC86-4B80-95C0-EBE20C386CFD}
+	EndGlobalSection
+EndGlobal
